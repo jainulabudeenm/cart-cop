@@ -1,0 +1,9 @@
+{
+  "name": "cart-cop",
+  "version": "0.1.0",
+  "description": "Makes you defend a purchase before it approves one. Interrogates shiny-object syndrome and future-proofing, then prices the buy as a delay to a goal you named.",
+  "author": {
+    "name": "Zain",
+    "url": "https://github.com/jainulabudeenm"
+  }
+}

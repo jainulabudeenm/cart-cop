@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "cart-cop",
+  "description": "A behavioral financial advisor that pulls you over before checkout.",
+  "owner": {
+    "name": "Zain",
+    "url": "https://github.com/jainulabudeenm"
+  },
+  "plugins": [
+    {
+      "name": "cart-cop",
+      "description": "Makes you defend a purchase before it approves one. Grounded in Psychology of Money.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
