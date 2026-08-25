@@ -11,10 +11,23 @@ solves an active bottleneck and is built to last, it says yes.
 
 ## Install
 
+In Claude Code, as a plugin. This is the one to use: it brings the skill and the
+`/cart-cop-init` command.
+
 ```
 /plugin marketplace add jainulabudeenm/cart-cop
 /plugin install cart-cop
 ```
+
+Or from npm, if you want the skill in Claude.ai or anywhere outside Claude Code.
+This installs the skill on its own, without the slash command.
+
+```
+npx cart-cop
+```
+
+Add `--project` to install into the current repo instead of your home directory,
+so you can commit it and share it with a team.
 
 ## Use
 

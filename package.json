@@ -1,0 +1,37 @@
+{
+  "name": "cart-cop",
+  "version": "1.0.0",
+  "description": "Install the Cart Cop skill for Claude. Makes you defend a purchase before it approves one, instead of cheering you on.",
+  "keywords": [
+    "claude",
+    "claude-skill",
+    "claude-code",
+    "personal-finance",
+    "behavioral-economics",
+    "spending",
+    "budgeting",
+    "shopping"
+  ],
+  "author": "Zain Hasan",
+  "license": "MIT",
+  "bin": {
+    "cart-cop": "bin/install.js"
+  },
+  "files": [
+    "bin/",
+    "skills/cart-cop.skill",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jainulabudeenm/cart-cop.git"
+  },
+  "homepage": "https://github.com/jainulabudeenm/cart-cop#readme",
+  "bugs": {
+    "url": "https://github.com/jainulabudeenm/cart-cop/issues"
+  }
+}
