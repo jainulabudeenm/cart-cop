@@ -45,7 +45,7 @@ Re-run `/cart-cop-init` any time to update it.
 
 ## What it actually does
 
-Three rules it will not bend:
+Six rules it will not bend:
 
 - **The Forecasting Error.** Buying specs for who you think you will be in three years is a
   mathematical error, not foresight.
@@ -53,6 +53,16 @@ Three rules it will not bend:
   you today. Not soon. Today.
 - **The Aging Gear Clause.** Age is not a failure state. Slow is not broken. Old gear has to be
   proven functionally broken, not merely old.
+- **Use What You Have.** It asks what you already own that does the job, every time, because no
+  list of your stuff is ever complete.
+- **"Prevent X" needs a real X.** "Just in case" only counts if the thing has actually happened to
+  you, with a date.
+- **A small price is not a pass.** A cheap add-on gets the same test as a big purchase. Accessories
+  bought in the weeks after a big buy get extra scrutiny.
+
+It also will not research products or prices before the verdict, because shopping help before a
+verdict feeds the urge. If any of its three questions gets a weak answer, the verdict is a 30-day
+cooling-off.
 
 And the part that does the real work: every rejection converts the price into a delay to a specific
 goal from your profile. "This is 320 dollars, which is five weeks added to your emergency fund" is
